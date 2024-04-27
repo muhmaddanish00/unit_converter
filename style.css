@@ -1,0 +1,48 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    text-align: center;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    /* background-color: aqua; */
+    /* display: flex; */
+
+
+}
+h1#heading{
+    /* text-align: center; */
+    margin-top: 40px;
+}
+#container{
+    /* text-align: center; */
+    margin:15px auto 0px auto;
+    width: 80%;
+   
+    padding: 20px;
+    border-radius:10px;
+    background-color: aqua;
+}
+
+
+  .input-div{
+    display: inline-block;
+  } 
+
+
+
+.inpt{
+    padding: 5px 10px;
+    margin: 10px;
+    font-weight: bold;
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+label{
+    font: 20px;
+}
